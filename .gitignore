@@ -40,3 +40,6 @@ config/excluded
 
 # Ignore build files
 web/themes/custom/*/assets/*
+
+# Ignore development files
+.ddev/
