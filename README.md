@@ -19,7 +19,7 @@ First declare a PROJECT_CODE variable which will be used as project folder and d
 
 Then, get the code source of the profile Blueberry, you can run the command below :
 ```
-composer create-project druids/blueberry-project --stability=dev $PROJECT_CODE
+composer create-project margauxdupuy/blueberry-project --stability=dev $PROJECT_CODE
 ```
 
 Then you can choose which module packages you want to activate by adding them in Drupal installation form (not ready in command line).
